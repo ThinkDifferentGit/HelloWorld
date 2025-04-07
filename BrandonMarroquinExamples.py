@@ -28,6 +28,17 @@ def main():
    z=x+y
    print(z)
    # All done
+x = 5
+y = "John"
+"""This is a
+multiline docstring."""
+print("Hello, World!")
+print(x)
+print(y)
+x = "Python "
+y = "is "
+z = "awesome"
+print(x + y + z)
 
 # This is the call to the Function main().  You should always
 # have a main() and def main(): as part of all your programs
