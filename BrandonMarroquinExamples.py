@@ -1,6 +1,6 @@
 print('Hello world!')
 # ============================================================================
-# Source: Brandon Marroquin
+# 
 # https://github.com/ThinkDifferentGit
 # ThinkDifferentGit
 # This example code is licensed under the CC BY-NC-SA 4.0, GNU GPL and EUPL
